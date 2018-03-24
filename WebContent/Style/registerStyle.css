@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+body{
+	background:gray;
+}
+.hiddenspace{
+	float:left;
+	width: 37%;
+}
+.col-12{
+    background-color: #111;
+    color: orange;
+}
+.error{
+	color: #fc342f;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+#toprow{
+	background-color: #111;
+}
